@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://pangdan007.github.io/2020/09/29/2013%E8%93%9D%E6%A1%A5T6/</loc>
+    
+    <lastmod>2020-09-28</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://pangdan007.github.io/2020/09/16/begining/</loc>
     
     <lastmod>2020-09-23</lastmod>
@@ -11,7 +18,7 @@
 
   <url>
     <loc>http://pangdan007.github.io/</loc>
-    <lastmod>2020-09-23</lastmod>
+    <lastmod>2020-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
